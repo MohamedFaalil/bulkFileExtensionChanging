@@ -1,4 +1,4 @@
-# bulkFileExtentionChanging
+# bulkFileExtensionChanging
 Simple functions containing the class File helps to change plenty of files' extensions easily.
 
 The class contain simple two functionalities
